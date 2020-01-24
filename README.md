@@ -1,1 +1,1 @@
-# Research-of-Dimension-Reduction-Algorithms
+# Python code of research of dimension reduction algorithms of feature space in data analysis task
